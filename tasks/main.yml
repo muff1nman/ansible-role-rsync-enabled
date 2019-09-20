@@ -1,0 +1,7 @@
+---
+- name: Install rsync
+  package:
+    name: rsync
+- name: Install wget
+  package:
+    name: wget
